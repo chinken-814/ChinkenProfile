@@ -28,10 +28,10 @@ p{
 
 img.chinken{
 	border-style: ridge;
-	border-width: 15px;
+	border-width: 10px;
 	display: block;
 	margin: auto;
-	border-color: #020003;
+	border-color: #30421E;
 	width: 350px;
 	height: 350px;
 	border-radius: 50%;
@@ -43,7 +43,16 @@ img{
 	margin: auto;
 	border-style: ridge;
 	border-width: 15px;
-	border-color: #020003;
+	border-color: #30421E;
+}
+
+.video-container{
+	text-align: center;
+}
+
+.video-container iframe{
+	display: block;
+	margin: 0 auto;
 }
 
 a{
